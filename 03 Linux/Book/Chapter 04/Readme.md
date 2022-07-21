@@ -21,11 +21,11 @@
   | Command | Argument        | Description                                                                      |
   | ------- | --------------- | -------------------------------------------------------------------------------- |
   | uptime  |                 | Display curren time, uptime, no of users and load average                        |
-  | uanme   |                 | Print system information                                                         |
-  | uanme   | -s              | Print the operating system name                                                  |
-  | uanme   | -r              | Print the operating system release                                               |
-  | uanme   | -v              | Print the operating system version                                               |
-  | uanme   | -a              | Print all information (machine, processer and OS)                                |
+  | uname   |                 | Print system information                                                         |
+  | uname   | -s              | Print the operating system name                                                  |
+  | uname   | -r              | Print the operating system release                                               |
+  | uname   | -v              | Print the operating system version                                               |
+  | uname   | -a              | Print all information (machine, processer and OS)                                |
   | man     | &lt;command&gt; | Display the user manual of any command that we can run on the terminal (offline) |
   | su      | -               | switch to root user                                                              |
 
